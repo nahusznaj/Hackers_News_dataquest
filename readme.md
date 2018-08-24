@@ -24,7 +24,11 @@ The project answers these questions by writing command line scripts, instead of 
 Here is a sample of the dataset:
 
 `2014-06-24T05:50:40.000Z	1	flux7.com	8 Ways to Use Docker in the Real World`
+
 `2010-02-17T16:57:59Z	1	blog.jonasbandi.net	Software: Sadly we did adopt from the construction analogy`
+
 `2014-02-04T02:36:30Z	1	blogs.wsj.com	 Google's Stock Split Means More Control for Larry and Sergey`
+
 `2011-10-26T07:11:29Z	1	threatpost.com	SSL DOS attack tool released exploiting negotiation overhead`
+
 `2011-04-03T15:43:44Z	67	algorithm.com.au	Immutability and Blocks Lambdas and Closures`
